@@ -34,3 +34,14 @@ As part of the training courses, I have done the following training projects:
 
 - [Omnifood Project](https://github.com/EGalitsky/Omnifood-Project)
 - [Forkify-App](https://github.com/EGalitsky/Forkify-App)
+
+## Education
+
+- University: Belarusian State Agrarian Technical University, Engineer
+- Courses:
+  - udemy.com - Build responsive real-world websites with HTML and CSS
+  - udemy.com - The complete javascript cource 2022: from zero to expert!
+
+## English
+
+**A2+** (I studied at a school with an in-depth study of English and practiced during the summer "English camps")
